@@ -29,8 +29,8 @@ const Navbar = () => {
           <a href="#Projects" className="cursor-pointer hover:text-gray-400">
             Projects
           </a>
-          <a href="#Contact" className="cursor-pointer hover:text-gray-400">
-            Contact Us
+          <a href="#testimonials" className="cursor-pointer hover:text-gray-400">
+          Testimonials
           </a>
         </ul>
         <button className="hidden md:block bg-white px-8 py-2 rounded-full">
